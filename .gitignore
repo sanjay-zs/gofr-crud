@@ -1,0 +1,4 @@
+.env
+.golangci.yml
+go.mod
+coverage.out
